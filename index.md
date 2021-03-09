@@ -1,10 +1,10 @@
-Information
+## Information
 
 Post-doc at the Institut Fourier in Grenoble (01/2021-...).
 
 Supervisor: Jean-Pierre Demailly
 
-Email: xiaojun.wu@univ-grenoble-alpes.fr
+Email: [xiaojun.wu@univ-grenoble-alpes.fr](xiaojun.wu@univ-grenoble-alpes.fr)
 
 My current research lies on Kähler Geometry,  Complex Analytic Geometry,  Birational Geometry.
 ## Welcome to GitHub Pages
@@ -20,7 +20,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+
 ## Header 2
 ### Header 3
 
