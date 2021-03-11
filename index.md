@@ -6,7 +6,7 @@ Supervisor: Jean-Pierre Demailly
 
 Email: [xiaojun.wu@univ-grenoble-alpes.fr](mailto:xiaojun.wu@univ-grenoble-alpes.fr)
 
-My current research lies on Kähler Geometry,  Complex Analytic Geometry,  Birational Geometry.
+My current themes of research are Kähler Geometry, Complex Analytic Geometry, Birational Geometry.
 
 ## Education
 
@@ -36,4 +36,5 @@ My current research lies on Kähler Geometry,  Complex Analytic Geometry,  Birat
 
 ## Other texts
 
-Ph.D. Thesis: Cohomologie des fibrés holomorphes et classes de Chern. [pdf](https://hal.archives-ouvertes.fr/tel-03145126). Definded in 15/12/2020 at Grenoble.
+Ph.D. Thesis: Cohomologie des fibrés holomorphes et classes de Chern. [pdf](https://hal.archives-ouvertes.fr/tel-03145126). Defended in 15/12/2020 at Grenoble.
+
