@@ -1,14 +1,16 @@
 ## Information
 
-Post-doc at the Institut Fourier in Grenoble (01/2021-...).
+Post-doc at University of Bayreuth (09/2021-...).
 
-Supervisor: Jean-Pierre Demailly
+Supervisor: Mihai P&#259;un
 
 Email: [xiaojun.wu@univ-grenoble-alpes.fr](mailto:xiaojun.wu@univ-grenoble-alpes.fr)
 
 My current themes of research are Kähler Geometry, Complex Analytic Geometry, Birational Geometry.
 
 ## Education
+
+2021.1-2021.8 Post-doc, Institut Fourier, Université Grenoble-Alpes, Advisor: Jean-Pierre Demailly
 
 2017–2020 Ph.D., Mathematics, Université Grenoble-Alpes, Advisor: Jean-Pierre Demailly
 
