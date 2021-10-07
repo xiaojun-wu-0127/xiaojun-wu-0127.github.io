@@ -21,9 +21,9 @@ My current themes of research are Kähler Geometry, Complex Analytic Geometry, B
 2009–2013 Bachelor, Mathematics, Fudan University 
 
 ## Publications and Preprints
-[1] Note on compact Kähler manifold with strongly pseudo-effective tangent bundle. [arXiv:arXiv:arXiv:2110.02931](https://arxiv.org/abs/arXiv:arXiv:2110.02931).
+[1] Note on compact Kähler manifold with strongly pseudo-effective tangent bundle. [arXiv:2110.02931](https://arxiv.org/abs/arXiv:2110.02931).
 
-[2] The Bogomolov's inequality on a singular complex space. [arXiv:arXiv:2106.14650](https://arxiv.org/abs/arXiv:2106.14650).
+[2] The Bogomolov's inequality on a singular complex space. [arXiv:2106.14650](https://arxiv.org/abs/arXiv:2106.14650).
 
 [3] Pseudo-effective and numerically flat reflexive sheaves. [arXiv:2004.14676v2](https://arxiv.org/abs/2004.14676).
  
