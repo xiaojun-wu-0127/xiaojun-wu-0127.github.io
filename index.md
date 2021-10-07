@@ -37,7 +37,7 @@ My current themes of research are Kähler Geometry, Complex Analytic Geometry, B
 
 [8] Intersection theory and Chern classes in Bott-Chern cohomology. [arXiv:2011.13759](https://arxiv.org/abs/2011.13759).
 
-[9] On the hard Lefschetz theorem for pseudoeffective line bundles. [arXiv:1911.13253v3](https://arxiv.org/abs/1911.13253). to appear in Int. J. of Mathematics.
+[9] On the hard Lefschetz theorem for pseudoeffective line bundles. [arXiv:1911.13253v3](https://arxiv.org/abs/1911.13253).  International Journal of Mathematics, Vol. 32, No. 06, 2150035 (2021).
 
 ## Other texts
 
