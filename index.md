@@ -4,7 +4,8 @@ Post-doc at University of Bayreuth (09/2021-...).
 
 Supervisor: Mihai P&#259;un
 
-Email: [xiaojun.wu@univ-grenoble-alpes.fr](mailto:xiaojun.wu@univ-grenoble-alpes.fr)
+Email: [xiaojun.wu@univ-grenoble-alpes.fr](mailto:xiaojun.wu@univ-grenoble-alpes.fr);
+[Xiaojun.Wu@uni-bayreuth.de](mailto:Xiaojun.Wu@uni-bayreuth.de)
 
 My current themes of research are Kähler Geometry, Complex Analytic Geometry, Birational Geometry.
 
@@ -25,11 +26,12 @@ My current themes of research are Kähler Geometry, Complex Analytic Geometry, B
 
 [2] The Bogomolov's inequality on a singular complex space. [arXiv:2106.14650](https://arxiv.org/abs/arXiv:2106.14650).
 
-[3] Pseudo-effective and numerically flat reflexive sheaves. [arXiv:2004.14676v2](https://arxiv.org/abs/2004.14676).
+[3] Pseudo-effective and numerically flat reflexive sheaves. [arXiv:2004.14676v2](https://arxiv.org/abs/2004.14676). The Journal of Geometric Analysis. volume 32, Article number: 124 (2022).
  
 [4] On the Nakano vanishing theorem. [arXiv:2011.13653](https://arxiv.org/abs/2011.13653).
 
-[5] A study of nefness in higher codimension. [arXiv: 2011.14896](https://arxiv.org/abs/2011.14896).
+[5] A study of nefness in higher codimension. [arXiv: 2011.14896](https://arxiv.org/abs/2011.14896). Bulletin de la Société Mathématique de France,
+150 (1), 2022, p. 209-249.
 
 [6] On Junyan Cao’s vanishing theorem for pseudoeffective line bundles. [arXiv:2011.13673](https://arxiv.org/abs/2011.13673). Part of this preprint has been merged into [5].
 
@@ -43,3 +45,4 @@ My current themes of research are Kähler Geometry, Complex Analytic Geometry, B
 
 Ph.D. Thesis: Cohomologie des fibrés holomorphes et classes de Chern. [pdf](https://hal.archives-ouvertes.fr/tel-03145126). Defended in 15/12/2020 at Grenoble.
 
+## updated: 24/03/2022
