@@ -41,6 +41,7 @@ My current themes of research are Kähler Geometry, Complex Analytic Geometry, B
 
 [9] On the hard Lefschetz theorem for pseudoeffective line bundles. [arXiv:1911.13253v3](https://arxiv.org/abs/1911.13253).  International Journal of Mathematics, Vol. 32, No. 06, 2150035 (2021).
 
+
 ## Other texts
 
 Ph.D. Thesis: Cohomologie des fibrés holomorphes et classes de Chern. [pdf](https://hal.archives-ouvertes.fr/tel-03145126). Defended in 15/12/2020 at Grenoble.
