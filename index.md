@@ -45,4 +45,5 @@ My current themes of research are Kähler Geometry, Complex Analytic Geometry, B
 
 Ph.D. Thesis: Cohomologie des fibrés holomorphes et classes de Chern. [pdf](https://hal.archives-ouvertes.fr/tel-03145126). Defended in 15/12/2020 at Grenoble.
 
+
 ## updated: 24/03/2022
