@@ -4,8 +4,7 @@ Post-doc at University of Bayreuth (09/2021-...).
 
 Supervisor: Mihai P&#259;un
 
-Email: [xiaojun.wu@univ-grenoble-alpes.fr](mailto:xiaojun.wu@univ-grenoble-alpes.fr);
-[Xiaojun.Wu@uni-bayreuth.de](mailto:Xiaojun.Wu@uni-bayreuth.de)
+Email: [Xiaojun.Wu@uni-bayreuth.de](mailto:Xiaojun.Wu@uni-bayreuth.de)
 
 My current themes of research are Kähler Geometry, Complex Analytic Geometry, Birational Geometry.
 
@@ -22,24 +21,28 @@ My current themes of research are Kähler Geometry, Complex Analytic Geometry, B
 2009–2013 Bachelor, Mathematics, Fudan University 
 
 ## Publications and Preprints
-[1] Note on compact Kähler manifold with strongly pseudo-effective tangent bundle. [arXiv:2110.02931](https://arxiv.org/abs/arXiv:2110.02931).
+[1] Note on holomorphic Morse inequalities tensoring with a coherent sheaf. [arXiv:2209.00544](https://arxiv.org/abs/arXiv:2209.00544).
 
-[2] The Bogomolov's inequality on a singular complex space. [arXiv:2106.14650](https://arxiv.org/abs/arXiv:2106.14650).
+[2] Note on asymptotic behaviour of the canonical ring. [arXiv:2209.02759](https://arxiv.org/abs/arXiv:2209.02759).
 
-[3] Pseudo-effective and numerically flat reflexive sheaves. [arXiv:2004.14676v2](https://arxiv.org/abs/2004.14676). The Journal of Geometric Analysis. volume 32, Article number: 124 (2022).
+[3] Note on compact Kähler manifold with strongly pseudo-effective tangent bundle. [arXiv:2110.02931](https://arxiv.org/abs/arXiv:2110.02931).
+
+[4] The Bogomolov's inequality on a singular complex space. [arXiv:2106.14650](https://arxiv.org/abs/arXiv:2106.14650).
+
+[5] Pseudo-effective and numerically flat reflexive sheaves. [arXiv:2004.14676v2](https://arxiv.org/abs/2004.14676). The Journal of Geometric Analysis. volume 32, Article number: 124 (2022).
  
-[4] On the Nakano vanishing theorem. [arXiv:2011.13653](https://arxiv.org/abs/2011.13653).
+[6] On the Nakano vanishing theorem. [arXiv:2011.13653](https://arxiv.org/abs/2011.13653).
 
-[5] A study of nefness in higher codimension. [arXiv: 2011.14896](https://arxiv.org/abs/2011.14896). Bulletin de la Société Mathématique de France,
+[7] A study of nefness in higher codimension. [arXiv: 2011.14896](https://arxiv.org/abs/2011.14896). Bulletin de la Société Mathématique de France,
 150 (1), 2022, p. 209-249.
 
-[6] On Junyan Cao’s vanishing theorem for pseudoeffective line bundles. [arXiv:2011.13673](https://arxiv.org/abs/2011.13673). Part of this preprint has been merged into [5].
+[8] On Junyan Cao’s vanishing theorem for pseudoeffective line bundles. [arXiv:2011.13673](https://arxiv.org/abs/2011.13673). Part of this preprint has been merged into [5].
 
-[7] On a vanishing theorem due to Bogomolov. [arXiv:2011.13751](https://arxiv.org/abs/2011.13751).
+[9] On a vanishing theorem due to Bogomolov. [arXiv:2011.13751](https://arxiv.org/abs/2011.13751).
 
-[8] Intersection theory and Chern classes in Bott-Chern cohomology. [arXiv:2011.13759](https://arxiv.org/abs/2011.13759).
+[10] Intersection theory and Chern classes in Bott-Chern cohomology. [arXiv:2011.13759](https://arxiv.org/abs/2011.13759). accepted by Arkiv för Matematik.
 
-[9] On the hard Lefschetz theorem for pseudoeffective line bundles. [arXiv:1911.13253v3](https://arxiv.org/abs/1911.13253).  International Journal of Mathematics, Vol. 32, No. 06, 2150035 (2021).
+[11] On the hard Lefschetz theorem for pseudoeffective line bundles. [arXiv:1911.13253v3](https://arxiv.org/abs/1911.13253).  International Journal of Mathematics, Vol. 32, No. 06, 2150035 (2021).
 
 
 ## Other texts
@@ -47,4 +50,4 @@ My current themes of research are Kähler Geometry, Complex Analytic Geometry, B
 Ph.D. Thesis: Cohomologie des fibrés holomorphes et classes de Chern. [pdf](https://hal.archives-ouvertes.fr/tel-03145126). Defended in 15/12/2020 at Grenoble.
 
 
-## updated: 24/03/2022
+## updated: 12/10/2022
