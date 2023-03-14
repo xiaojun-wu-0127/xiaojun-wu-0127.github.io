@@ -49,5 +49,7 @@ My current themes of research are Kähler Geometry, Complex Analytic Geometry, B
 
 Ph.D. Thesis: Cohomologie des fibrés holomorphes et classes de Chern. [pdf](https://hal.archives-ouvertes.fr/tel-03145126). Defended in 15/12/2020 at Grenoble.
 
+[Website of Chinese mathematicians in memory of Jean-Pierre Demailly](JPDemailly/JPDemailly.html)
 
-## updated: 12/10/2022
+
+## updated: 03/14/2023
