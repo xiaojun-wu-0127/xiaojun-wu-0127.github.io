@@ -21,7 +21,7 @@ My current themes of research are Kähler Geometry, Complex Analytic Geometry, B
 2009–2013 Bachelor, Mathematics, Fudan University 
 
 ## Publications and Preprints
-[1] (joint work with Shin-ichi Matsumura). Compact Kähler 3-folds with nef anti-canonical bundle.[link](nef_hal.pdf).
+[1] (joint work with Shin-ichi Matsumura). Compact Kähler 3-folds with nef anti-canonical bundle. [link](nef_hal.pdf).
 
 [2] (joint work with  Junyan Cao, Patrick Graf, Philipp Naumann, Mihai Paun, Thomas Peternell). Hermite-Einstein metrics in singular settings. [arXiv:2303.08773](https://arxiv.org/abs/arXiv:2303.08773). 
 
