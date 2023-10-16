@@ -59,5 +59,7 @@ Ph.D. Thesis: Cohomologie des fibrés holomorphes et classes de Chern. [pdf](htt
 
 [Website of Chinese mathematicians in memory of Jean-Pierre Demailly](JPDemailly/JPDemailly.html)
 
+Slides for lecture series at AMSS, October 2023. [pdf](china_1017.pdf).
 
-## updated: 03/25/2023
+
+## updated: 10/16/2023
