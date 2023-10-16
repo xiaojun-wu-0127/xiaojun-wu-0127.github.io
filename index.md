@@ -62,4 +62,4 @@ Ph.D. Thesis: Cohomologie des fibrés holomorphes et classes de Chern. [pdf](htt
 Slides for lecture series at AMSS, October 2023. [pdf](china_1017.pdf).
 
 
-## updated: 10/16/2023
+## Updated: 10/16/2023
