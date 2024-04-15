@@ -13,7 +13,7 @@ My current themes of research are Kähler Geometry, Complex Analytic Geometry, B
 
 ## Education
 
-2021.9-2023.8 Post-doc, University of Bayreuth, Advisor: Mihai P&#103un
+2021.9-2023.8 Post-doc, University of Bayreuth, Advisor: Mihai P&#0103un
 
 2021.1-2021.8 Post-doc, Institut Fourier, Université Grenoble-Alpes, Advisor: Jean-Pierre Demailly
 
