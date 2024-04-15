@@ -1,14 +1,19 @@
 ## Information
 
-Post-doc at University of Bayreuth (09/2021-...).
+Post-doc at Université Côte d'Azur (09/2023-...).
 
-Supervisor: Mihai P&#259;un
+Supervisor: Laurent Stolovitch
 
-Email: [Xiaojun.Wu@uni-bayreuth.de](mailto:Xiaojun.Wu@uni-bayreuth.de)
+Email: [Xiaojun.Wu@uni-bayreuth.de](mailto:Xiaojun.Wu@uni-bayreuth.de),
+
+[Xiaojun.WU@univ-cotedazur.fr](mailto:Xiaojun.WU@univ-cotedazur.fr)
+
 
 My current themes of research are Kähler Geometry, Complex Analytic Geometry, Birational Geometry.
 
 ## Education
+
+2021.9-2023.8 Post-doc, University of Bayreuth, Advisor: Mihai P&#103un
 
 2021.1-2021.8 Post-doc, Institut Fourier, Université Grenoble-Alpes, Advisor: Jean-Pierre Demailly
 
