@@ -24,9 +24,9 @@ My current themes of research are Kähler Geometry, Complex Analytic Geometry, B
 2009–2013 Bachelor, Mathematics, Fudan University 
 
 ## Publications and Preprints
-[1] Generalised Lelong-Poincaré formula in complex Bott-Chern cohomology, [arXiv:2410.01634](https://arxiv.org/abs/arXiv:2410.01634
+[1] Generalised Lelong-Poincaré formula in complex Bott-Chern cohomology, [arXiv:2410.01634](https://arxiv.org/abs/arXiv:2410.01634).
 
-[2] (joint work with Song Yang, Xiangdong Yang). Bott-Chern characteristic classes of blow-ups,  [arXiv:2408.03210](https://arxiv.org/abs/arXiv:2408.03210
+[2] (joint work with Song Yang, Xiangdong Yang). Bott-Chern characteristic classes of blow-ups,  [arXiv:2408.03210](https://arxiv.org/abs/arXiv:2408.03210).
 
 [3] (joint work with Laurent Stolovitch). Ueda foliation problem for complex tori. [arXiv:2403.17682](https://arxiv.org/abs/arXiv:2403.17682
 ).
