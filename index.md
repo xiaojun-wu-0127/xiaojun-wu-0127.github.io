@@ -1,15 +1,17 @@
 ## Information
 
-Post-doc at Université Côte d'Azur (09/2023-...).
+Post-doc at Osaka Metropolitan University (11/2025-...).
 
-Supervisor: Laurent Stolovitch
+Supervisor: Takayuki Koike
 
-Email: [Xiaojun.WU@univ-cotedazur.fr](mailto:Xiaojun.WU@univ-cotedazur.fr)
+Email: [Xiaojun.WU@univ-cotedazur.fr](mailto:Xiaojun.WU@univ-cotedazur.fr); 
+       [y25161q@omu.ac.jp](mailto:y25161q@omu.ac.jp)
 
 
 My current themes of research are Kähler Geometry, Complex Analytic Geometry, Birational Geometry.
 
 ## Education
+2023.9-2025.10 Post-doc, Université Côte d'Azur, Advisor: Laurent Stolovitch
 
 2021.9-2023.8 Post-doc, University of Bayreuth, Advisor: Mihai Paun
 
@@ -24,27 +26,28 @@ My current themes of research are Kähler Geometry, Complex Analytic Geometry, B
 2009–2013 Bachelor, Mathematics, Fudan University 
 
 ## Publications and Preprints
-[1] Generalised Lelong-Poincaré formula in complex Bott-Chern cohomology, [arXiv:2410.01634](https://arxiv.org/abs/arXiv:2410.01634).
+[1] Generalised Lelong-Poincaré formula in complex Bott-Chern cohomology, [arXiv:2410.01634](https://arxiv.org/abs/arXiv:2410.01634). Complex Analysis and its Synergies, Volume 11, article number 25, (2025). 10.1007/s40627-025-00176-y.
 
 [2] (joint work with Song Yang, Xiangdong Yang). Bott-Chern characteristic classes of blow-ups,  [arXiv:2408.03210](https://arxiv.org/abs/arXiv:2408.03210).
 
 [3] (joint work with Laurent Stolovitch). Ueda foliation problem for complex tori. [arXiv:2403.17682](https://arxiv.org/abs/arXiv:2403.17682
 ).
 
-[4] (joint work with Philipp Naumann). Albanese map for Kähler manifolds with nef anticanonical bundle, [arXiv:2310.06695](https://arxiv.org/abs/arXiv:2310.06695).
+[4] (joint work with Philipp Naumann). Albanese map for Kähler manifolds with nef anticanonical bundle, [arXiv:2310.06695](https://arxiv.org/abs/arXiv:2310.06695). Math. Z. 311, 25 (2025).
 
-[5] (joint work with Shin-ichi Matsumura). Compact Kähler 3-folds with nef anti-canonical bundle. [arXiv:2304.03163](https://arxiv.org/abs/arXiv:2304.03163). Accepted by  Mathematische Annalen.
+[5] (joint work with Shin-ichi Matsumura). Compact Kähler 3-folds with nef anti-canonical bundle. [arXiv:2304.03163](https://arxiv.org/abs/arXiv:2304.03163). Mathematische Annalen, Volume 391, pages 1253–1289, (2025).
 
-[6] (joint work with  Junyan Cao, Patrick Graf, Philipp Naumann, Mihai Paun, Thomas Peternell). Hermite-Einstein metrics in singular settings. [arXiv:2303.08773](https://arxiv.org/abs/arXiv:2303.08773). 
+[6] (joint work with  Junyan Cao, Patrick Graf, Philipp Naumann, Mihai Paun, Thomas Peternell). Hermite-Einstein metrics in singular settings. [arXiv:2303.08773](https://arxiv.org/abs/arXiv:2303.08773). accepted by Asian J. Math.
 
 [7] On compact Kähler orbifold. [arXiv:2302.11914](https://arxiv.org/abs/arXiv:2302.11914). 
 
 [8] Albanese morphism of log smooth klt compact Kähler manifold with nef log anticanonical divisor. [arXiv:2301.05194](https://arxiv.org/abs/arXiv:2301.05194). 
 
-[9] Note on holomorphic Morse inequalities tensoring with a coherent sheaf. [arXiv:2209.00544](https://arxiv.org/abs/arXiv:2209.00544).  Accepted by Pure and Applied Mathematics Quarterly.
+[9] Note on holomorphic Morse inequalities tensoring with a coherent sheaf. [arXiv:2209.00544](https://arxiv.org/abs/arXiv:2209.00544).  Pure and Applied Mathematics Quarterly Volume
+21, Number 4, 1469–1489, 2025.
 
-[10] Note on asymptotic behaviour of the canonical ring. [arXiv:2209.02759](https://arxiv.org/abs/arXiv:2209.02759). Accepted by
-Comptes Rendus Mathématiques.
+[10] Note on asymptotic behaviour of the canonical ring. [arXiv:2209.02759](https://arxiv.org/abs/arXiv:2209.02759). Comptes Rendus Mathématiques. Volume 362 (2024), p.
+1389-1397.
 
 [11] Note on compact Kähler manifold with strongly pseudo-effective tangent bundle. [arXiv:2110.02931](https://arxiv.org/abs/arXiv:2110.02931).
 
@@ -77,4 +80,4 @@ Slides for lecture series at AMSS, October 2023.
 Overview [pdf](china_2310_v2.pdf). Lecture 1 [pdf](china_1017.pdf). Lecture 2 [pdf](china_1020.pdf).
 
 
-## Updated: 12/15/2024
+## Updated: 9/11/2025
